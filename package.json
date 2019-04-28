@@ -1,0 +1,14 @@
+{
+  "name": "puppeteertest",
+  "version": "1.0.0",
+  "description": "this is a test project for puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "bijesh",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.10.0"
+  }
+}
